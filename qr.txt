@@ -1,0 +1,1 @@
+QR feature is added.
